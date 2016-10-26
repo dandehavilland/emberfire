@@ -15,3 +15,4 @@
 1. [Using EmberFire with Fastboot](fastboot-support.md) - Details on Fastboot support
 1. [Acceptance Testing WIP](https://github.com/firebase/emberfire/pull/409) - This pull request will give standard acceptance testing patterns to EmberFire projects
 1. [Paths in ids proposal](https://github.com/firebase/emberfire/issues/432) - Proposal to allow more complex querying / data-structures in EmberFire
+1. [Testing](testing.md) - Acceptance testing with EmberFire
